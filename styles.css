@@ -1,0 +1,22 @@
+p {
+	border: 1px solid red;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+#college {
+	background-color: blue;
+	color: white;
+}
+#computer_job {
+	background-color: yellow;
+	color: orange;
+}
+#other_job {
+	color: gray;
+}
